@@ -12,9 +12,15 @@ The Kanban board application has already been created. It's your job to complete
 
 Before you start, download the [starter code](https://static.bc-edx.com/coding/software-dev/14-Full-Stack-React/Develop.zip).
 
+Login information for test purposes
+
+User name: JollyGuru
+
+Password: password
+
 ## User Story
 
-```md
+```
 AS A member of an agile team
 I WANT a Kanban board with a secure login page
 SO THAT I can securely access and manage my work tasks
@@ -22,7 +28,7 @@ SO THAT I can securely access and manage my work tasks
 
 ## Acceptance Criteria
 
-```md
+```
 GIVEN a Kanban board with a secure login page
 WHEN I load the login page
 THEN I am presented with form inputs for username and password
@@ -103,7 +109,7 @@ As a bonus exercise, try adding the capability to sort and filter the list of ti
 
 This Challenge is graded based on the following criteria:
 
-### Technical Acceptance Criteria: 40%
+### Technical Acceptance Criteria:
 
 * Satisfies all of the preceding acceptance criteria plus the following:
 
@@ -113,7 +119,7 @@ This Challenge is graded based on the following criteria:
 
   * Application must be deployed to Render.
 
-### Deployment: 32%
+### Deployment:
 
 * Application deployed at live URL.
 
@@ -123,7 +129,7 @@ This Challenge is graded based on the following criteria:
 
 * GitHub repository contains application code.
 
-### Application Quality: 15%
+### Application Quality:
 
 * Application user experience is intuitive and easy to navigate.
 
@@ -131,7 +137,7 @@ This Challenge is graded based on the following criteria:
 
 * Application resembles the mock-up functionality provided in the Challenge instructions.
 
-### Repository Quality: 13%
+### Repository Quality:
 
 * Repository has a unique name.
 
