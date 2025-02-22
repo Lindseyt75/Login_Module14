@@ -18,6 +18,7 @@ const login = async (userInfo: UserLogin) => {
 
     const { token } = await response.json();
     return token;
+    
   } catch (error) {
     if (error instanceof Error) {
       throw new Error('Failed to login: ' + error.message);
