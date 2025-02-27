@@ -1,5 +1,11 @@
 # 14 Full-Stack React: Kanban Board
 
+Live URL : https://kanban-gp3a.onrender.com
+
+User name: JollyGuru
+
+Password: password
+
 ## Your Task
 
 Authentication with JSON Web Tokens (JWTs) is crucial for full-stack applications, as it provides a secure and scalable method for verifying user identities. JWTs are compact, URL-safe tokens that encode a user's authentication data, allowing servers to authenticate requests. Additionally, JWTs can include metadata and be easily verified and decoded, enhancing security while enabling seamless authentication across various parts of an application.
@@ -13,10 +19,6 @@ The Kanban board application has already been created. It's your job to complete
 Before you start, download the [starter code](https://static.bc-edx.com/coding/software-dev/14-Full-Stack-React/Develop.zip).
 
 Login information for test purposes
-
-User name: JollyGuru
-
-Password: password
 
 ## User Story
 
